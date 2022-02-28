@@ -1,4 +1,4 @@
-﻿namespace DotNet.GitHubAction.Extensions;
+﻿downtofuck.monday DotNet.GitHubAction.Extensions;
 
 static class ServiceCollectionExtensions
 {
